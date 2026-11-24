@@ -1,0 +1,1 @@
+{"name":"aiforecast-personal","version":"1.1.0","private":true,"scripts":{"test":"node tests/engine.cjs && node tests/backtest.cjs","test:ui":"node tests/ui.cjs","test:backtest-ui":"node tests/backtest-ui.cjs"},"devDependencies":{"playwright-core":"1.57.0"}}

@@ -1,0 +1,30 @@
+{
+  "apk": "aiforecast-1.1.0-personal.apk",
+  "sha256": "8cc83c177b59004ecd51dff0ee060a51442b04516e3570b9726ef5d0d5b6ea49",
+  "version": "1.1.0",
+  "sameSignerAs1_0_0": true,
+  "assetBytesMatch": true,
+  "checks": {
+    "engine": 36,
+    "backtest": 20,
+    "protocolCalendar": 26,
+    "nativeHistory": 10,
+    "originalUI": 51,
+    "backtestUI": 20
+  },
+  "unverified": [
+    "Android device execution",
+    "actual account OAuth and GPT inference",
+    "notifications and background survival on device",
+    "GPT accuracy",
+    "actual Rakuten profitability"
+  ],
+  "historicalData": {
+    "retrievals": 320,
+    "tradingDays": 30,
+    "pairs": 5,
+    "predictions": 7500,
+    "excluded": 0,
+    "failed": 0
+  }
+}

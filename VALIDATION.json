@@ -1,0 +1,23 @@
+{
+  "app": "AiForecast",
+  "version": "1.0.0",
+  "date": "2026-11-15",
+  "engine_tests": 36,
+  "protocol_checks": 26,
+  "ui_checks": 51,
+  "ui_widths": [
+    360,
+    412,
+    840
+  ],
+  "live_public_feeds": [
+    "GMO public FX: 5 pairs, 1440 candles each",
+    "Native Java: USD_JPY and BLS ICS"
+  ],
+  "not_verified": [
+    "Android device execution",
+    "Actual account OAuth login and inference",
+    "Android background and notifications",
+    "Forecast accuracy and profitability"
+  ]
+}
